@@ -1,4 +1,4 @@
-6# Enterprise Network Security
+# Enterprise Network Security
 
 Implementasi keamanan dasar pada jaringan enterprise sebagai lanjutan dari **Enterprise Network Cisco Packet Tracer**. Project ini berfokus pada penerapan mekanisme keamanan untuk melindungi akses administrasi, komunikasi antar VLAN, dan perangkat jaringan sesuai praktik dasar pada lingkungan enterprise.
 
