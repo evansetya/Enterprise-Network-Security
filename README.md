@@ -1,4 +1,4 @@
-# Enterprise Network Security
+6# Enterprise Network Security
 
 Implementasi keamanan dasar pada jaringan enterprise sebagai lanjutan dari **Enterprise Network Cisco Packet Tracer**. Project ini berfokus pada penerapan mekanisme keamanan untuk melindungi akses administrasi, komunikasi antar VLAN, dan perangkat jaringan sesuai praktik dasar pada lingkungan enterprise.
 
@@ -52,7 +52,8 @@ Enterprise-Network-Security/
 ├── docs/
 │   ├── project-documentation.md
 │   ├── security-policy.md
-│   └── testing-results.md
+│   ├── testing-results.md
+│   └── development-journal.md
 │
 ├── screenshots/
 │
@@ -99,6 +100,7 @@ Dokumentasi lengkap project tersedia pada file berikut.
 | "project-documentation.md" | Dokumentasi implementasi seluruh mekanisme keamanan.                   |
 | "security-policy.md"       | Kebijakan keamanan yang diterapkan pada lingkungan jaringan.           |
 | "testing-results.md"       | Hasil pengujian seluruh implementasi keamanan beserta bukti pengujian. |
+| "development-journal.md"   | Catatan proses pengembangan dan troubleshooting project.               |
 
 ---
 
